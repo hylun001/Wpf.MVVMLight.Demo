@@ -208,7 +208,9 @@ namespace Wpf.MVVMLight.Demo.Common
         //        }
         //    }
         //}
-        public string CurrentPageKey => throw new NotImplementedException();
+        public string CurrentPageKey {
+            get;set;
+        }
 
         public void GoBack()
         {

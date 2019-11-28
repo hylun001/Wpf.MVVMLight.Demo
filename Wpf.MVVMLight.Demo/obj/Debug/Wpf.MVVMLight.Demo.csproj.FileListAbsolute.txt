@@ -32,3 +32,16 @@ C:\Users\Administrator\source\repos\Wpf.MVVMLight.Demo\Wpf.MVVMLight.Demo\obj\De
 C:\Users\Administrator\source\repos\Wpf.MVVMLight.Demo\Wpf.MVVMLight.Demo\obj\Debug\Pages\PageTwo.baml
 C:\Users\Administrator\source\repos\Wpf.MVVMLight.Demo\Wpf.MVVMLight.Demo\obj\Debug\Pages\PageOne.g.cs
 C:\Users\Administrator\source\repos\Wpf.MVVMLight.Demo\Wpf.MVVMLight.Demo\obj\Debug\Pages\PageOne.baml
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Wpf.MVVMLight.Demo.csprojAssemblyReference.cache
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\MainWindow.baml
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Pages\MainPage.baml
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\MainWindow.g.cs
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Pages\MainPage.g.cs
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Pages\PageOne.g.cs
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Pages\PageTwo.g.cs
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\App.g.cs
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Wpf.MVVMLight.Demo_MarkupCompile.cache
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Wpf.MVVMLight.Demo_MarkupCompile.lref
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Wpf.MVVMLight.Demo.exe
+F:\WpfApplication1\Wpf.MVVMLight.Demo_Master\Wpf.MVVMLight.Demo\obj\Debug\Wpf.MVVMLight.Demo.pdb

@@ -15,8 +15,14 @@ namespace Wpf.MVVMLight.Demo
         public App()
         {         
             Application.Current.Exit += Current_Exit;
+            Application.Current.DispatcherUnhandledException += Current_DispatcherUnhandledException;
             //初始化用来保存主线程的Dispatcher
             DispatcherHelper.Initialize();
+        }
+
+        private void Current_DispatcherUnhandledException(object sender, System.Windows.Threading.DispatcherUnhandledExceptionEventArgs e)
+        {
+            MessageBox.Show("未处理异常!");
         }
 
         private void Current_Exit(object sender, ExitEventArgs e)

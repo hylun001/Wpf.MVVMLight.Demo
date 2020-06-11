@@ -15,3 +15,5 @@ Mvvmlight
 
 MVVMLight的官网：http://www.mvvmlight.net/
 
+demo已经实现模板页和明细页，工作原理的兴趣学习！欢迎交流。
+
